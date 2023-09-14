@@ -1,0 +1,12 @@
+{
+    "name": "edsrzf/psalm-xml-repro",
+    "authors": [
+        {
+            "name": "Evan Shaw",
+            "email": "evan.shaw@lightspeedhq.com"
+        }
+    ],
+    "require-dev": {
+        "vimeo/psalm": "^5.15"
+    }
+}
